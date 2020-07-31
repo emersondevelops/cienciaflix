@@ -17,11 +17,9 @@ function PageDefault({ children }) {
     return (
         <>
             <Menu />
-
             <Main>
                 {children}
             </Main>
-
             <Footer />
         </>
     );
