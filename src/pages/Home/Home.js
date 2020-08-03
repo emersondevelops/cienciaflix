@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+// import dadosIniciais from '../../data/dados_iniciais.json';
 import BannerMain from '../../components/BannerMain';
 import Carousel from '../../components/Carousel';
 import PageDefault from '../../components/PageDefault';
@@ -8,19 +9,18 @@ function Home() {
   const [dadosIniciais, setDadosIniciais] = useState([]);
 
   useEffect(() => {
+    // http://localhost:8080/categorias?_embed=videos
     categoriasRepository.getAllWithVideos()
       .then((categoriasComVideos) => {
         setDadosIniciais(categoriasComVideos);
       })
       .catch((err) => {
-        // eslint-disable-next-line no-console
         console.log(err.message);
       });
   }, []);
 
   return (
     <PageDefault paddingAll={0}>
-
       {dadosIniciais.length === 0 && (<div>Loading...</div>)}
 
       {dadosIniciais.map((categoria, indice) => {
@@ -30,7 +30,7 @@ function Home() {
               <BannerMain
                 videoTitle={dadosIniciais[0].videos[0].titulo}
                 url={dadosIniciais[0].videos[0].url}
-                videoDescription="O que é Front-end? Trabalhando na área os temos HTML, CSS e JavaScript"
+                videoDescription="Se você quer aprender a programar de verdade e conseguir um emprego como programador, treinar através de projetos interessantes é, na minha opinião, a melhor escolha para você aumentar as chances disto acontecer. Nesse vídeo eu agrego 10 projetos rápidos e interessantes para você programar que vai envolver vários conhecimentos em backend, frontend, desenvolvimento web, desenvolvimento mobile, aplicativo desktop e full stack num geral."
               />
               <Carousel
                 ignoreFirstVideo
