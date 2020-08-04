@@ -6,7 +6,7 @@ import './styles.css';
 function Footer() {
   return (
     <FooterBase>
-      <a href="https://www.alura.com.br/">
+      <a href="https://github.com/emersondevelops">
         <img className="iconeFooter" src={IconeFooter} alt="Logo Alura" />
       </a>
       <p>
