@@ -7,7 +7,7 @@ function Footer() {
   return (
     <FooterBase>
       <a href="https://github.com/emersondevelops">
-        <img className="iconeFooter" src={IconeFooter} alt="Logo Alura" />
+        <img className="iconeFooter" src={IconeFooter} alt="Github do desenvovedor" />
       </a>
       <p>
         Desenvolvido por
