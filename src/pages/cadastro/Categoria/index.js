@@ -80,7 +80,9 @@ function CadastroCategoria() {
       {categorias.length === 0 && (
         <div>
           {/* Carregando... */}
-          Loading...
+          <br />
+          <br />
+          Carregando categorias cadastradas...
         </div>
       )}
 
@@ -91,9 +93,14 @@ function CadastroCategoria() {
           </li>
         ))}
       </ul>
-      <Link to="/">
-        Ir para home
-      </Link>
+      <br />
+      <Button>
+        <Link to="/">
+          Ir para home
+        </Link>
+      </Button>
+      <br />
+      <br />
     </PageDefault>
   );
 }

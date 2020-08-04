@@ -2,11 +2,119 @@
   "categorias": [
     {
       "id": 1,
-      "titulo": "6º Ano",
+      "titulo": "6º Ano - Matéria e Energia",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Misturas homogêneas e heterogêneas | Separação de materiais | Materiais sintéticos | Transformações químicas",
+        "url": "http://basenacionalcomum.mec.gov.br/abase/#fundamental/ciencias-no-ensino-fundamental-anos-finais-unidades-tematicas-objetos-de-conhecimento-e-habilidades"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "6º Ano - Vida e Evolução",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Célula como unidade da vida | Interação entre os sistemas locomotor e nervoso | Lentes corretivas",
+        "url": "http://basenacionalcomum.mec.gov.br/abase/#fundamental/ciencias-no-ensino-fundamental-anos-finais-unidades-tematicas-objetos-de-conhecimento-e-habilidades"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "6º Ano - Terra e Universo",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Forma, estrutura e movimentos da Terra",
+        "url": "http://basenacionalcomum.mec.gov.br/abase/#fundamental/ciencias-no-ensino-fundamental-anos-finais-unidades-tematicas-objetos-de-conhecimento-e-habilidades"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "7º Ano - Matéria e Energia",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Terra e Universo",
-        "url": "https://www.youtube.com/watch?v=BueCYLvTBso"
+        "text": "Máquinas simples | Formas de propagação do calor | Equilíbrio termodinâmico e vida na Terra | História dos combustíveis e das máquinas térmicas",
+        "url": "http://basenacionalcomum.mec.gov.br/abase/#fundamental/ciencias-no-ensino-fundamental-anos-finais-unidades-tematicas-objetos-de-conhecimento-e-habilidades"
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "7º Ano - Vida e Evolução",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Diversidade de ecossistemas | Fenômenos naturais e impactos ambientais | Programas e indicadores de saúde pública",
+        "url": "http://basenacionalcomum.mec.gov.br/abase/#fundamental/ciencias-no-ensino-fundamental-anos-finais-unidades-tematicas-objetos-de-conhecimento-e-habilidades"
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "7º Ano - Terra e Universo",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Composição do ar | Efeito estufa | Camada de ozônio | Fenômenos naturais (vulcões, terremotos e tsunamis) | Placas tectônicas e deriva continental",
+        "url": "http://basenacionalcomum.mec.gov.br/abase/#fundamental/ciencias-no-ensino-fundamental-anos-finais-unidades-tematicas-objetos-de-conhecimento-e-habilidades"
+      }
+    },
+    {
+      "id": 7,
+      "titulo": "8º Ano - Matéria e Energia",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Fontes e tipos de energia | Transformação de energia | Cálculo de consumo de energia elétrica | Circuitos elétricos | Uso consciente de energia elétrica",
+        "url": "http://basenacionalcomum.mec.gov.br/abase/#fundamental/ciencias-no-ensino-fundamental-anos-finais-unidades-tematicas-objetos-de-conhecimento-e-habilidades"
+      }
+    },
+    {
+      "id": 8,
+      "titulo": "8º Ano - Vida e Evolução",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Mecanismos reprodutivos | Sexualidade",
+        "url": "http://basenacionalcomum.mec.gov.br/abase/#fundamental/ciencias-no-ensino-fundamental-anos-finais-unidades-tematicas-objetos-de-conhecimento-e-habilidades"
+      }
+    },
+    {
+      "id": 9,
+      "titulo": "8º Ano - Terra e Universo",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Sistema Sol, Terra e Lua | Clima",
+        "url": "http://basenacionalcomum.mec.gov.br/abase/#fundamental/ciencias-no-ensino-fundamental-anos-finais-unidades-tematicas-objetos-de-conhecimento-e-habilidades"
+      }
+    },
+    {
+      "id": 10,
+      "titulo": "9º Ano - Matéria e Energia",
+      "cor": "red",
+      "link_extra": {
+        "text": "Aspectos quantitativos das transformações químicas | Estrutura da matéria | Radiações e suas aplicações na saúde",
+        "url": "http://basenacionalcomum.mec.gov.br/abase/#fundamental/ciencias-no-ensino-fundamental-anos-finais-unidades-tematicas-objetos-de-conhecimento-e-habilidades"
+      }
+    },
+    {
+      "id": 11,
+      "titulo": "9º Ano - Vida e Evolução",
+      "cor": "red",
+      "link_extra": {
+        "text": "Hereditariedade | Ideias evolucionistas | Preservação da biodiversidade",
+        "url": "http://basenacionalcomum.mec.gov.br/abase/#fundamental/ciencias-no-ensino-fundamental-anos-finais-unidades-tematicas-objetos-de-conhecimento-e-habilidades"
+      }
+    },
+    {
+      "id": 12,
+      "titulo": "9º Ano - Terra e Universo",
+      "cor": "red",
+      "link_extra": {
+        "text": "Composição, estrutura e localização do Sistema Solar no Universo | Astronomia e cultura | Vida humana fora da Terra | Ordem de grandeza astronômica | Evolução estelar",
+        "url": "http://basenacionalcomum.mec.gov.br/abase/#fundamental/ciencias-no-ensino-fundamental-anos-finais-unidades-tematicas-objetos-de-conhecimento-e-habilidades"
+      }
+    },
+    {
+      "id": 13,
+      "titulo": "Temas Complementares",
+      "cor": "purple",
+      "link_extra": {
+        "text": "",
+        "url": ""
       }
     }
   ],
@@ -14,8 +122,626 @@
     {
       "id": 1,
       "categoriaId": 1,
-      "titulo": "O que é um ano-luz?",
-      "url": "https://www.youtube.com/watch?v=dIspynHG6A8"
+      "titulo": "Explore e Aprenda Mais Sobre Ciências!",
+      "url": "https://www.youtube.com/watch?v=R0gyM9w97ek"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Tipos de misturas",
+      "url": "https://youtu.be/L7cfPRNIfxQ"
+    },
+    {
+      "id": 3,
+      "categoriaId": 4,
+      "titulo": "Máquinas simples",
+      "url": "https://youtu.be/P3pctzmt8eo"
+    },
+    {
+      "id": 4,
+      "categoriaId": 7,
+      "titulo": "Fontes e tipos de energia",
+      "url": "https://youtu.be/K60aheHe0ko"
+    },
+    {
+      "id": 5,
+      "categoriaId": 10,
+      "titulo": "Leis das Transformações Químicas",
+      "url": "https://youtu.be/6zG_tOUUAXY"
+    },
+    {
+      "titulo": "Transformações físicas e químicas",
+      "url": "https://youtu.be/SnmIpgVX3pI",
+      "categoriaId": 1,
+      "id": 6
+    },
+    {
+      "titulo": "Separação de misturas",
+      "url": "https://youtu.be/X5OWOAp7t-I",
+      "categoriaId": 1,
+      "id": 7
+    },
+    {
+      "titulo": "A célula e suas funções",
+      "url": "https://youtu.be/L4smfNoMKb8",
+      "categoriaId": 2,
+      "id": 8
+    },
+    {
+      "titulo": "Níveis de organização dos seres vivos",
+      "url": "https://youtu.be/2MpAiK1NNIE",
+      "categoriaId": 2,
+      "id": 9
+    },
+    {
+      "titulo": "Sistema nervoso: células e funções",
+      "url": "https://youtu.be/TRfetT4uQ0Q",
+      "categoriaId": 2,
+      "id": 10
+    },
+    {
+      "titulo": "Sentidos: visão",
+      "url": "https://youtu.be/GYE3_QPhjSQ",
+      "categoriaId": 2,
+      "id": 11
+    },
+    {
+      "titulo": "Problemas de visão e lentes corretivas",
+      "url": "https://youtu.be/JVjve3z-rVc",
+      "categoriaId": 2,
+      "id": 12
+    },
+    {
+      "titulo": "Sistema nervoso e as drogas",
+      "url": "https://youtu.be/fRwQ1-5Ak-s",
+      "categoriaId": 2,
+      "id": 13
+    },
+    {
+      "titulo": "Sistema Locomotor",
+      "url": "https://youtu.be/ac40-iYsurY",
+      "categoriaId": 2,
+      "id": 14
+    },
+    {
+      "titulo": "Terra e suas camadas",
+      "url": "https://youtu.be/kU0o2DYHRqE",
+      "categoriaId": 3,
+      "id": 15
+    },
+    {
+      "titulo": "Os Fósseis",
+      "url": "https://youtu.be/2DpHTE12JVc",
+      "categoriaId": 3,
+      "id": 16
+    },
+    {
+      "titulo": "Tipos de rochas",
+      "url": "https://youtu.be/zq54OCjKRN4",
+      "categoriaId": 3,
+      "id": 17
+    },
+    {
+      "titulo": "Evidências da esfericidade da Terra",
+      "url": "https://youtu.be/kORq2tCyztQ",
+      "categoriaId": 3,
+      "id": 18
+    },
+    {
+      "titulo": "Movimentos da terra: rotação e translação",
+      "url": "https://youtu.be/w7mzLMXDmGA",
+      "categoriaId": 3,
+      "id": 19
+    },
+    {
+      "titulo": "Equilíbrio termodinâmico",
+      "url": "https://youtu.be/KMRt3fYZNEQ",
+      "categoriaId": 4,
+      "id": 20
+    },
+    {
+      "titulo": "Formas de propagação de calor",
+      "url": "https://youtu.be/pRvLym9QBw4",
+      "categoriaId": 4,
+      "id": 21
+    },
+    {
+      "titulo": "Máquinas térmicas e situações cotidianas",
+      "url": "https://youtu.be/BoL-14HhZmA",
+      "categoriaId": 4,
+      "id": 22
+    },
+    {
+      "titulo": "Problemas socioambientais",
+      "url": "https://youtu.be/LV040qF8H0Q",
+      "categoriaId": 4,
+      "id": 23
+    },
+    {
+      "titulo": "Surgimento de novos materiais e tecnologias",
+      "url": "https://youtu.be/P0kBt83aW2c",
+      "categoriaId": 4,
+      "id": 24
+    },
+    {
+      "titulo": "Construindo circuitos elétricos",
+      "url": "https://youtu.be/-inlLYLDomY",
+      "categoriaId": 7,
+      "id": 25
+    },
+    {
+      "titulo": "Classificando equipamentos elétricos residenciais",
+      "url": "https://youtu.be/uUmvulaU0DU",
+      "categoriaId": 7,
+      "id": 26
+    },
+    {
+      "titulo": "O impacto do consumo de eletrodomésticos",
+      "url": "https://youtu.be/x9dS7FOrfWQ",
+      "categoriaId": 7,
+      "id": 27
+    },
+    {
+      "titulo": "Hábitos de consumo responsável",
+      "url": "https://youtu.be/2CWQi281tvQ",
+      "categoriaId": 7,
+      "id": 28
+    },
+    {
+      "titulo": "Usinas de geração de energia elétrica",
+      "url": "https://youtu.be/1UZ77Sifp_4",
+      "categoriaId": 7,
+      "id": 29
+    },
+    {
+      "titulo": "Modelos Atômicos",
+      "url": "https://youtu.be/fDeZTaClNRY",
+      "categoriaId": 10,
+      "id": 30
+    },
+    {
+      "titulo": "Radioatividade",
+      "url": "https://youtu.be/s7Tji2NgYsA",
+      "categoriaId": 10,
+      "id": 31
+    },
+    {
+      "titulo": "Misturas homogêneas e heterogêneas",
+      "url": "https://youtu.be/q2l-sM2h2Kc",
+      "categoriaId": 1,
+      "id": 32
+    },
+    {
+      "titulo": "Métodos de Fracionamento das Misturas",
+      "url": "https://youtu.be/uaraNEWzVwY",
+      "categoriaId": 1,
+      "id": 33
+    },
+    {
+      "titulo": "Transformações Químicas",
+      "url": "https://youtu.be/p3Vwlu7OYKA",
+      "categoriaId": 1,
+      "id": 34
+    },
+    {
+      "titulo": "Máquinas simples",
+      "url": "https://youtu.be/1cLd3zoe5WQ",
+      "categoriaId": 4,
+      "id": 35
+    },
+    {
+      "titulo": "Temperatura e calor",
+      "url": "https://youtu.be/JCrS9TSgrtw",
+      "categoriaId": 4,
+      "id": 36
+    },
+    {
+      "titulo": "Formas de propagação de calor",
+      "url": "https://youtu.be/ecYI7GUVKPM",
+      "categoriaId": 4,
+      "id": 37
+    },
+    {
+      "titulo": "Propagação de calor: aplicações no cotidiano",
+      "url": "https://youtu.be/xA2lm_smraM",
+      "categoriaId": 4,
+      "id": 38
+    },
+    {
+      "titulo": "Máquinas térmicas",
+      "url": "https://youtu.be/eHzUdI1uMLo",
+      "categoriaId": 4,
+      "id": 39
+    },
+    {
+      "titulo": "Tipos de combustíveis",
+      "url": "https://youtu.be/vgzrSXOUo-A",
+      "categoriaId": 4,
+      "id": 40
+    },
+    {
+      "titulo": "Tecnologia no Cotidiano",
+      "url": "https://youtu.be/GykS4PMSTrc",
+      "categoriaId": 4,
+      "id": 41
+    },
+    {
+      "titulo": "Ecossistemas Brasileiros: Mata atlântica, Amazônia e Mata dos Cocais",
+      "url": "https://youtu.be/lG2UFVjt9uA",
+      "categoriaId": 5,
+      "id": 42
+    },
+    {
+      "titulo": "Ecossistemas Brasileiros: Cerrado,Caatinga e Pantanal",
+      "url": "https://youtu.be/xLRwlkkZ3hU",
+      "categoriaId": 5,
+      "id": 43
+    },
+    {
+      "titulo": "Ecossistemas Brasileiros: Pampas, Mata de Araucária, Restingas e Manguezais",
+      "url": "https://youtu.be/eJKrX0OXFCg",
+      "categoriaId": 5,
+      "id": 44
+    },
+    {
+      "titulo": "Fenômenos naturais e impactos ambientais",
+      "url": "https://youtu.be/AmqGlT1xbgs",
+      "categoriaId": 5,
+      "id": 45
+    },
+    {
+      "titulo": "Indicadores de saúde pública",
+      "url": "https://youtu.be/ak7LF6tg28w",
+      "categoriaId": 5,
+      "id": 46
+    },
+    {
+      "titulo": "Vacina: o que é e sua importância",
+      "url": "https://youtu.be/LbMATf4I0vs",
+      "categoriaId": 5,
+      "id": 47
+    },
+    {
+      "titulo": "Ar e sua composição",
+      "url": "https://youtu.be/WrWN3eeN6d0",
+      "categoriaId": 6,
+      "id": 48
+    },
+    {
+      "titulo": "Poluição atmosférica",
+      "url": "https://youtu.be/y8EX5QVPpI0",
+      "categoriaId": 6,
+      "id": 49
+    },
+    {
+      "titulo": "Efeito Estufa",
+      "url": "https://youtu.be/-Bb5pkye798",
+      "categoriaId": 6,
+      "id": 50
+    },
+    {
+      "titulo": "Aquecimento global: o que é e como revertê-lo",
+      "url": "https://youtu.be/jo27iDzOg64",
+      "categoriaId": 6,
+      "id": 51
+    },
+    {
+      "titulo": "Camada de Ozônio",
+      "url": "https://youtu.be/s9kxprENY4g",
+      "categoriaId": 6,
+      "id": 52
+    },
+    {
+      "titulo": "Movimentos de placas tectônicas /Terremoto no Brasil?",
+      "url": "https://youtu.be/6Ea-OqwuVy8",
+      "categoriaId": 6,
+      "id": 53
+    },
+    {
+      "titulo": "Tectônica de placas / casos Brasil - África",
+      "url": "https://youtu.be/DY_ZWgh-bYg",
+      "categoriaId": 6,
+      "id": 54
+    },
+    {
+      "titulo": "Fontes e tipos de Energia",
+      "url": "https://youtu.be/6DF3GpAfJOU",
+      "categoriaId": 7,
+      "id": 55
+    },
+    {
+      "titulo": "Energia renovável",
+      "url": "https://youtu.be/qA2WkNZYeu0",
+      "categoriaId": 7,
+      "id": 56
+    },
+    {
+      "titulo": "Energia não renovável",
+      "url": "https://youtu.be/9JlEVnTY0bM",
+      "categoriaId": 7,
+      "id": 57
+    },
+    {
+      "titulo": "Eletricidade no Cotidiano/ Transformações de energia",
+      "url": "https://youtu.be/ANr8BANbVN4",
+      "categoriaId": 7,
+      "id": 58
+    },
+    {
+      "titulo": "Energia elétrica e sustentabilidade",
+      "url": "https://youtu.be/Bmwtx7XzTkE",
+      "categoriaId": 7,
+      "id": 59
+    },
+    {
+      "titulo": "Cálculo de consumo de energia elétrica",
+      "url": "https://youtu.be/GDT1uVbethI",
+      "categoriaId": 7,
+      "id": 60
+    },
+    {
+      "titulo": "Circuitos elétricos no cotidiano",
+      "url": "https://youtu.be/N0DnSlhijOU",
+      "categoriaId": 7,
+      "id": 61
+    },
+    {
+      "titulo": "Geração de Energia e impactos socioambientais",
+      "url": "https://youtu.be/UwhhBIPr-as",
+      "categoriaId": 7,
+      "id": 62
+    },
+    {
+      "titulo": "Reprodução dos Seres vivos",
+      "url": "https://youtu.be/xQ9wchie9Pc",
+      "categoriaId": 8,
+      "id": 63
+    },
+    {
+      "titulo": "Reprodução no Reino Vegetal",
+      "url": "https://youtu.be/UlNCJd3fJe8",
+      "categoriaId": 8,
+      "id": 64
+    },
+    {
+      "titulo": "Reprodução e evolução: invertebrados",
+      "url": "https://youtu.be/8WfCq6569V0",
+      "categoriaId": 8,
+      "id": 65
+    },
+    {
+      "titulo": "Reprodução e evolução: vertebrados",
+      "url": "https://youtu.be/W4g8Wac_pZg",
+      "categoriaId": 8,
+      "id": 66
+    },
+    {
+      "titulo": "Puberdade e suas mudanças",
+      "url": "https://youtu.be/oHaVYp4v5NI",
+      "categoriaId": 8,
+      "id": 67
+    },
+    {
+      "titulo": "Sistema reprodutor masculino",
+      "url": "https://youtu.be/14T0s1iH-5s",
+      "categoriaId": 8,
+      "id": 68
+    },
+    {
+      "titulo": "Sistema reprodutor feminino",
+      "url": "https://youtu.be/q2qhHxysDqs",
+      "categoriaId": 8,
+      "id": 69
+    },
+    {
+      "titulo": "Métodos contraceptivos",
+      "url": "https://youtu.be/3BFovRk3CR0",
+      "categoriaId": 8,
+      "id": 70
+    },
+    {
+      "titulo": "Doenças Sexualmente Transmissíveis: conhecer para se prevenir",
+      "url": "https://youtu.be/8mJ6RiIye_w?list=PLNM2T4DNzmq71YnFuVJePi8FTiKc9WtCu",
+      "categoriaId": 8,
+      "id": 71
+    },
+    {
+      "titulo": "Mecanismos de transmissão e recepção de imagem e som",
+      "url": "https://youtu.be/LqsdO3WadOw",
+      "categoriaId": 10,
+      "id": 72
+    },
+    {
+      "titulo": "Radiações e suas aplicações",
+      "url": "https://youtu.be/dkP21iaG0Ek",
+      "categoriaId": 10,
+      "id": 73
+    },
+    {
+      "titulo": "Radiações na medicina",
+      "url": "https://youtu.be/2UGL7QosvXE",
+      "categoriaId": 10,
+      "id": 74
+    },
+    {
+      "titulo": "A lua e suas fases",
+      "url": "https://youtu.be/3Wefx4Vpx1M",
+      "categoriaId": 9,
+      "id": 75
+    },
+    {
+      "titulo": "Eclipse solar e lunar",
+      "url": "https://youtu.be/nQEx0tZyDNc",
+      "categoriaId": 9,
+      "id": 76
+    },
+    {
+      "titulo": "O eixo da terra e as estações do ano",
+      "url": "https://youtu.be/gX_DfJzqG7g",
+      "categoriaId": 9,
+      "id": 77
+    },
+    {
+      "titulo": "Tipos climáticos no Mundo",
+      "url": "https://youtu.be/bKN_kB7-PaQ",
+      "categoriaId": 9,
+      "id": 78
+    },
+    {
+      "titulo": "Tipos climáticos no Brasil",
+      "url": "https://youtu.be/6aC9XqKMmz4",
+      "categoriaId": 9,
+      "id": 79
+    },
+    {
+      "titulo": "Fatores climáticos: inclinação do eixo, maritimidade e continentalidade",
+      "url": "https://youtu.be/XKk3_etGCdU",
+      "categoriaId": 9,
+      "id": 80
+    },
+    {
+      "titulo": "Previsão do Tempo",
+      "url": "https://youtu.be/ciWTNUeWADA",
+      "categoriaId": 9,
+      "id": 81
+    },
+    {
+      "titulo": "Alterações climáticas e ação humana",
+      "url": "https://youtu.be/debZ-ChunPE",
+      "categoriaId": 9,
+      "id": 82
+    },
+    {
+      "titulo": "Mudanças de estado físico",
+      "url": "https://youtu.be/NyVxeTPhOJE",
+      "categoriaId": 10,
+      "id": 83
+    },
+    {
+      "titulo": "Transformações químicas",
+      "url": "https://youtu.be/-Q1bLUfRauE",
+      "categoriaId": 10,
+      "id": 84
+    },
+    {
+      "titulo": "Átomos e moléculas",
+      "url": "https://youtu.be/YMyyg1hzNfw",
+      "categoriaId": 10,
+      "id": 85
+    },
+    {
+      "titulo": "Radiações eletromagnéticas",
+      "url": "https://youtu.be/EuCQ7YdqHjE",
+      "categoriaId": 10,
+      "id": 86
+    },
+    {
+      "titulo": "Luz visível e sua composição",
+      "url": "https://youtu.be/7kgIbTY4HXM",
+      "categoriaId": 10,
+      "id": 87
+    },
+    {
+      "titulo": "Tecnologia da comunicação",
+      "url": "https://youtu.be/T8UH402P0dM",
+      "categoriaId": 10,
+      "id": 88
+    },
+    {
+      "titulo": "Radiação a serviço da Saúde",
+      "url": "https://youtu.be/DcDhVIwCKns",
+      "categoriaId": 10,
+      "id": 89
+    },
+    {
+      "titulo": "Hereditariedade",
+      "url": "https://youtu.be/22cQBJv0Cas",
+      "categoriaId": 11,
+      "id": 90
+    },
+    {
+      "titulo": "Primeira lei de Mendel e cruzamentos genéticos",
+      "url": "https://youtu.be/jZH_S4b1elQ",
+      "categoriaId": 11,
+      "id": 91
+    },
+    {
+      "titulo": "Teorias evolucionistas",
+      "url": "https://youtu.be/0D1NRusC-QU",
+      "categoriaId": 11,
+      "id": 92
+    },
+    {
+      "titulo": "Biodiversidade e preservação",
+      "url": "https://youtu.be/HGC6u_NDaaM",
+      "categoriaId": 11,
+      "id": 93
+    },
+    {
+      "titulo": "Sustentabilidade no Cotidiano",
+      "url": "https://youtu.be/_1zhXVum6xQ",
+      "categoriaId": 11,
+      "id": 94
+    },
+    {
+      "titulo": "Sistema Solar",
+      "url": "https://youtu.be/QTzyluDk_jI",
+      "categoriaId": 12,
+      "id": 95
+    },
+    {
+      "titulo": "Astronomia e cultura",
+      "url": "https://youtu.be/yQ4XlJaf8Zo",
+      "categoriaId": 12,
+      "id": 96
+    },
+    {
+      "titulo": "Vida fora da Terra é possível?",
+      "url": "https://youtu.be/x-60jpz4_VM",
+      "categoriaId": 12,
+      "id": 97
+    },
+    {
+      "titulo": "Sol e estrelas",
+      "url": "https://youtu.be/GFsXnof_N_E",
+      "categoriaId": 12,
+      "id": 98
+    },
+    {
+      "titulo": "A TERRA É PLANA? Com Leon e Nilce",
+      "url": "https://youtu.be/nEVPDqUb5dM",
+      "categoriaId": 13,
+      "id": 99
+    },
+    {
+      "titulo": "Como tornar MARTE habitável? Com Iberê e Castanhari",
+      "url": "https://youtu.be/DAyKeqm2_uc",
+      "categoriaId": 13,
+      "id": 100
+    },
+    {
+      "titulo": "BURACOS NEGROS, como eles surgem?",
+      "url": "https://youtu.be/WvQlhMjGo4M",
+      "categoriaId": 13,
+      "id": 101
+    },
+    {
+      "titulo": "A origem do universo | Teoria do BIG BANG",
+      "url": "https://youtu.be/Bl8Q7Lt56y0",
+      "categoriaId": 13,
+      "id": 102
+    },
+    {
+      "titulo": "O QUE MATOU OS DINOSSAUROS?",
+      "url": "https://youtu.be/0I6ZQOPfgJk",
+      "categoriaId": 13,
+      "id": 103
+    },
+    {
+      "titulo": "QUAL A ORIGEM DA LUA?",
+      "url": "https://youtu.be/OGSfxOH410I",
+      "categoriaId": 13,
+      "id": 104
     }
   ]
 }

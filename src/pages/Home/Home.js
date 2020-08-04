@@ -15,13 +15,21 @@ function Home() {
         setDadosIniciais(categoriasComVideos);
       })
       .catch((err) => {
+        // eslint-disable-next-line no-console
         console.log(err.message);
       });
   }, []);
 
   return (
     <PageDefault paddingAll={0}>
-      {dadosIniciais.length === 0 && (<div>Loading...</div>)}
+      {dadosIniciais.length === 0 && (
+
+        <div>
+          <br />
+          <br />
+          Carregando lista de vídeos. Aguarde alguns segundos...
+        </div>
+      )}
 
       {dadosIniciais.map((categoria, indice) => {
         if (indice === 0) {
@@ -30,7 +38,7 @@ function Home() {
               <BannerMain
                 videoTitle={dadosIniciais[0].videos[0].titulo}
                 url={dadosIniciais[0].videos[0].url}
-                videoDescription="Se você quer aprender a programar de verdade e conseguir um emprego como programador, treinar através de projetos interessantes é, na minha opinião, a melhor escolha para você aumentar as chances disto acontecer. Nesse vídeo eu agrego 10 projetos rápidos e interessantes para você programar que vai envolver vários conhecimentos em backend, frontend, desenvolvimento web, desenvolvimento mobile, aplicativo desktop e full stack num geral."
+                videoDescription="Esta página é dedicada aos estudantes de Ciências da Natureza do Ensino Fundamental II (anos finais). Aqui você encontrará vídeos relacionados aos conteúdos básicos do 6º ao 9º ano, subdivididos em Unidades Temáticas conforme a Base Nacional Curricular Comum (BNCC). Bons estudos!"
               />
               <Carousel
                 ignoreFirstVideo

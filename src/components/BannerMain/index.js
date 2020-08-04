@@ -1,6 +1,8 @@
+/* eslint-disable react/prop-types */
 import React from 'react';
 import VideoIframeResponsive from './components/VideoIframeResponsive';
 import { BannerMainContainer, ContentAreaContainer, WatchButton } from './styles';
+import Fundo from '../../assets/img/fundo-principal.jpg';
 
 function getYouTubeId(youtubeURL) {
   return youtubeURL
@@ -16,7 +18,8 @@ export default function BannerMain({
   url,
 }) {
   const youTubeID = getYouTubeId(url);
-  const bgUrl = `https://img.youtube.com/vi/${youTubeID}/maxresdefault.jpg`;
+  // const bgUrl = `https://img.youtube.com/vi/${youTubeID}/maxresdefault.jpg`;
+  const bgUrl = `${Fundo}`;
 
   return (
     <BannerMainContainer backgroundImage={bgUrl}>
@@ -36,7 +39,7 @@ export default function BannerMain({
             youtubeID={youTubeID}
           />
           <WatchButton>
-            Assistir
+            <a href="https://youtu.be/R0gyM9w97ek">Assistir</a>
           </WatchButton>
         </ContentAreaContainer.Item>
       </ContentAreaContainer>
