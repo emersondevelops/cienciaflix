@@ -4,7 +4,7 @@
 
 ## About
 
-This page is the result of a five-day ReactJS boot camp I participated in last week, promoted by Alura Cursos Online. It still has extra challenges to implement, but I am satisfied with what I was able to accomplish during that period. It was a good opportunity to get to know a little more about the front-end world. This project called Ciênciasflix (ciência means science in Portuguese) is a collaborative repository of video classes targeting middle school Brazilian students with free YouTube content. The content is curated by other science teachers and organized according to the national science curriculum. My journey to discover what area of development I will focus on continues!
+This page is the result of a five-day ReactJS boot camp I participated in last week, promoted by Alura Cursos Online. It still has extra challenges to implement, but I am satisfied with what I was able to accomplish during that period. It was a good opportunity to get to know a little more about the front-end world. This project called Ciênciasflix (ciência means science in Portuguese) is a collaborative repository of video classes targeting middle school Brazilian students with free YouTube content. The content is curated by other science teachers and organized according to the national science curriculum.
 
 ![screenshot](./screenshot.png)
 
